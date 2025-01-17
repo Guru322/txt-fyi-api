@@ -1,0 +1,26 @@
+{
+    "name": "txt-pckge",
+    "version": "1.0.0",
+    "description": "A Node.js package for txt.fyi",
+    "main": "index.js",
+    "type": "module",
+    "repository": {
+        "url": "https://github.com/Guru322/txt-pckge"
+    },
+    "keywords": [
+        "pollinations",
+        "ai",
+        "image-generation",
+        "artificial-intelligence"
+    ],
+    "author": "Guru",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.6.0",
+        "cheerio": "^1.0.0",
+        "node-fetch": "^3.3.2"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
