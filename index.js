@@ -59,7 +59,7 @@ async function sendsession(inputText) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
 
-    const location = response.url;
+    const location = response.url.split('/').pop();
     
     if (location) {
       return {

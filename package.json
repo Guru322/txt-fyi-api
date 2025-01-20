@@ -4,6 +4,9 @@
     "description": "A Node.js package for txt.fyi",
     "main": "index.js",
     "type": "module",
+    "scripts": {
+        "test": "jest"
+    },
     "repository": {
         "url": "https://github.com/Guru322/txt-pckge"
     },
