@@ -1,5 +1,5 @@
 {
-    "name": "txt-pckge",
+    "name": "txt-fyi-api",
     "version": "1.0.0",
     "description": "A Node.js package for txt.fyi",
     "main": "index.js",
@@ -8,13 +8,10 @@
         "test": "jest"
     },
     "repository": {
-        "url": "https://github.com/Guru322/txt-pckge"
+        "url": "https://github.com/Guru322/txt-fyi-api"
     },
     "keywords": [
-        "pollinations",
-        "ai",
-        "image-generation",
-        "artificial-intelligence"
+        "txt"
     ],
     "author": "Guru",
     "license": "MIT",
