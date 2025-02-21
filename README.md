@@ -1,5 +1,6 @@
 # txt.fyi Utility Functions
 
+[![Node.js Package](https://github.com/Guru322/txt-fyi-api/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/Guru322/txt-fyi-api/actions/workflows/npm-publish.yml)
 ## Overview
 This package provides two main functions for interacting with txt.fyi:
 - `sendsession`: Posts new text content to txt.fyi and returns the URL SLUG as session ID
